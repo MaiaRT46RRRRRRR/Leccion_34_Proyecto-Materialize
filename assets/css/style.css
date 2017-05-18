@@ -3,21 +3,25 @@ body, html {
 	background-color: #EDEDED !important;
 	font-family: "Roboto", sans-serif;
 }
-
 .upper{
 	text-transform: uppercase;
 }
 .bold{
 	font-weight: bold;
-
 }
 #contact{
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
 .input-field{
-	margin-bottom: 4rem;
+	margin-bottom: 1rem;
 }
 .button{
 	margin-bottom: 2rem;
+}
+.pb{
+	padding-bottom: 15px;
+}
+#information {
+ padding-left: 40px;
 }

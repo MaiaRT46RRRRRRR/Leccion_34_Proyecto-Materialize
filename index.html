@@ -24,42 +24,45 @@
       </div>
       </div>
       <div class="row">
-
         <form class="col s12 m6" id="formValidate">
           <div class="row">
             <div class="input-field col s6 m6">
               <input  id="first_name" type="text" class="validate" required>
-              <label for="first_name" data-error="Only Letters" data-success="RIGHT!" >First Name</label>
+              <label for="first_name" data-error="Only Letters" data-success="" >First Name</label>
             </div>
             <div class="input-field col s6 m6">
               <input id="last_name" type="text" class="validate"required>
-              <label for="last_name" data-error="Only Letters" data-success="RIGHT!" >Last Name</label>
+              <label for="last_name" data-error="Only Letters" data-success="" >Last Name</label>
             </div>
           </div>
-
+          <div class="row">
             <div class="input-field col s12">
               <input id="email" type="email" class="validate" required>
               <label for="email" data-error="WRONG!" data-success="RIGHT!" >Email</label>
             </div>
-
+          </div>
+          <div class="row">
             <div class="input-field col s12">
               <textarea id="textarea1" class="materialize-textarea" required></textarea>
               <label for="textarea1">Your Message</label>
             </div>
+          </div>
+          <div class="row">
             <div class="button col s12">
               <button class="btn waves-effect waves-light col s5 m4" type="submit" name="action">Submit
               </button>
             </div>
+          </div>
         </form>
-        <div class="information col s11 offset-s1 m6">
-          <p class="upper bold">Address</p>
-          <p>Nr.6, 21 awesome Street,London,UK</p>
-          <br>
-          <p class="upper bold">Phone Number</p>
-          <p>+51 9912776151</p>
-          <br>
-          <p class="upper bold">Website</p>
-          <p>qnimate.com</p>
+        <div class="row">
+          <div id="information"class="col s12 m6">
+            <p class="upper bold">Address</p>
+            <p class="pb">Nr.6, 21 awesome Street,London,UK</p>
+            <p class="upper bold">Phone Number</p>
+            <p class="pb">+51 9912776151</p>
+            <p class="upper bold">Website</p>
+            <p class="pb">qnimate.com</p>
+          </div>
         </div>
       </div>
     </section>
