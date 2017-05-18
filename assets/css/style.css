@@ -29,10 +29,14 @@ h1{
 .mb{
 	margin-bottom: 100px;
 }
-.space-letter{
-	letter-spacing: 1px;
-}
 .circle{
 	width: 25%;
 	height: 25%;
+}
+/*Footer*/
+footer div h6{
+	display: inline-block;
+}
+footer{
+	padding: 5px 10px;
 }
