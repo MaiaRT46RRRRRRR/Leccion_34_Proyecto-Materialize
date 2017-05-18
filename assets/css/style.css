@@ -3,21 +3,6 @@ body, html {
 	background-color: #EDEDED !important;
 	font-family: "Roboto", sans-serif;
 }
-.upper{
-	text-transform: uppercase;
-}
-.input-field{
-	margin-bottom: 1rem;
-}
-.button{
-	margin-bottom: 2rem;
-}
-.pb{
-	padding-bottom: 15px;
-}
-#information {
- padding-left: 40px;
-}
 *{
 	margin: 0 auto;
 	box-sizing: border-box;
@@ -41,24 +26,20 @@ h1{
 	margin-bottom: 30px;
 }
 .mt{
-	margin-top: 120px;
+	margin-top: 100px;
 }
-.mb{
+.padding-bottom{
 	margin-bottom: 100px;
 }
 .circle{
 	width: 25%;
 	height: 25%;
 }
-/*Footer*/
-footer div h6{
-	display: inline-block;
+.upper{
+	text-transform: uppercase;
 }
-footer{
-	width: 100%;
-	overflow: auto;
-	padding: 5px 0;
-}
+
+/*Portfolio*/
 #portafolio{
 	width: 100%;
 	height: auto;
@@ -75,8 +56,34 @@ footer{
 hr{
 	width: 5%;
 	margin-top: 2%;
-	margin-bottom: 3%;
+	margin-bottom: 7%;
 }
 .row{
 	margin: 0;
+}
+.p-row{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*Contact*/
+.input-field{
+	margin-bottom: 1rem;
+}
+.button{
+	margin-bottom: 2rem;
+}
+.pb{
+	padding-bottom: 15px;
+}
+#information {
+	padding-left: 40px;
+}
+/*Footer*/
+footer div h6{
+	display: inline-block;
+}
+footer{
+	width: 100%;
+	overflow: auto;
+	padding: 5px 0;
 }
