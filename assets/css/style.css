@@ -38,5 +38,7 @@ footer div h6{
 	display: inline-block;
 }
 footer{
-	padding: 5px 10px;
+	width: 100%;
+	overflow: auto;
+	padding: 5px 0;
 }
