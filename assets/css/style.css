@@ -6,10 +6,19 @@ body, html {
 	height: auto;
 	background-color: #fff;
 }
-div .col>img{
+.cont-img{
+	overflow: hidden;
 	width: 100%;
-	height: 100%;
+	height: auto;
+}
+.materialboxed{
+	width: 100%;
 }
 hr{
 	width: 5%;
+	margin-top: 2%;
+	margin-bottom: 3%;
+}
+.row{
+	margin: 0;
 }
