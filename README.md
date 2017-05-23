@@ -1,9 +1,9 @@
-# L35- Proyecto-Fab
+# L35- Proyecto-Materialize
 Se realizo la distribución de tareas según el diseño y dificultad   de la página.
 
- 1.-Header...                       (Leslie)
- 2.-Portafolio...                   (Maia)
- 3.-Contáctanos...                  (Grecia)
+ * 1.-Header...                       (Leslie)
+ * 2.-Portafolio...                   (Maia)
+ * 3.-Contáctanos...                  (Grecia)
 
  Se procedio  a crear el repositorio y añadir a las colaboradoras por parte de la Srta.Maia.
  Cada una creo una rama por cada tarea a realizar.
