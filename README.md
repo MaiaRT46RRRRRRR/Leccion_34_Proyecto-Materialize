@@ -28,3 +28,5 @@ Se realizo la distribución de tareas según el diseño y dificultad   de la pá
 * [Leslie Avendaño](https://github.com/lesashley)
 * [Greacia Rayme](https://github.com/GreeceArtemis)
 * [Maia Rojas](https://github.com/MaiaRT46RRRRRRR)
+
+Para ver el resultado clic [aquí](https://maiarojas.github.io/Leccion_34_Proyecto-Materialize/)
